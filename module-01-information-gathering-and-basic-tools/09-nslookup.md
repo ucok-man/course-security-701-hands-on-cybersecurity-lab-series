@@ -1081,7 +1081,7 @@ Secara fungsi, `nslookup` di Linux dan Windows hampir identik:
 
 - Mendukung mode interaktif dan non-interaktif
 - Mendukung berbagai tipe DNS record
-- Mendukung custom DNS server
+- Mendukung custom DNS serverj
 
 Perbedaan utamanya terletak pada fleksibilitas urutan argumen, di mana Windows lebih ketat.
 
