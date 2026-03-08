@@ -938,7 +938,7 @@ Karena alasan keamanan ini, Telnet saat ini sudah jarang digunakan dalam sistem 
 - troubleshooting koneksi
 - perangkat lama yang belum mendukung SSH
 
-Meskipun begitu, dukungan Telnet di PuTTY tetap berguna dalam beberapa situasi khusus di bidang jaringan dan administrasi sistem.
+Meskipun begitu, dukungan Telnet di PuTTY tetap berguna dalam beberapa situasi khusus di bidang jaringan dan administrasi sistem.js
 
 ## 3. Hubungan Antar Konsep
 
