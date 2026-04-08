@@ -472,7 +472,7 @@ Semua itu bisa dilakukan langsung dari browser, tanpa perlu melakukan scanning s
 Semua konsep di atas membentuk alur pemahaman yang utuh sebagai berikut:
 
 ```
-Shodan (mesin pencari khusus)
+Shodan (mesin pencari khusus)j
           |
           ▼
   Mengumpulkan data dengan cara:
